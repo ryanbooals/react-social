@@ -1,3 +1,7 @@
+#Fork Differences
+
+Use props "title" and "picture" and "description" for facebook to add more rich content
+
 # react-social
 
 [![NPM version][npm-image]][npm-url]

@@ -398,7 +398,7 @@
       return "https://www.facebook.com/dialog/feed?"
              + "app_id=" + encodeURIComponent(this.props.appId)
              + "&display=popup"
-             + "&title=" + encodeURIComponent(this.props.propertyName)
+             + "&title=" + encodeURIComponent(this.props.title)
              + "&picture=" + encodeURIComponent(this.props.picture)
              + "&description=" + encodeURIComponent(this.props.message)
              + "&link=" + encodeURIComponent(this.props.url)
